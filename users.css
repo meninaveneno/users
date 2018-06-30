@@ -1,0 +1,121 @@
+/ * vinicius * / 
+[data-cid ^ = "36740873-"] .badge-box .bdg,
+# user-rollover.id-36740873 .badge-box .bdg {
+    raio de fronteira: 5 px;
+    tamanho de fundo: capa;
+    background-repeat: repetir;
+    posição de fundo: centro;
+    background-image: url ("https://i.imgur.com/UG4ciFh.jpg");
+}    
+
+/ * Nana * / 
+[data-cid ^ = "21755082-"] .badge-box .bdg,
+# user-rollover.id-21755082 .badge-box .bdg {
+    raio de fronteira: 5 px;
+    tamanho de fundo: capa;
+    background-repeat: repetir;
+    posição de fundo: centro;
+    background-image: url ("https://i.imgur.com/u0qXPaS.jpg");
+}
+
+/ * Lolla * /
+[data-cid ^ = "23246837-"] .badge-box .bdg,
+# user-rollover.id-23246837 .badge-box .bdg {
+    raio de fronteira: 5 px;
+    tamanho de fundo: capa;
+    background-repeat: repetir;
+    posição de fundo: centro;
+    background-image: url ("https://scontent.fsdu7-1.fna.fbcdn.net/v/t1.0-9/20729636_262487590915452_7649870444230668725_n.jpg?_nc_cat=0&_nc_eui2=AeHGwIydlUKd3R7H3e80-gLvj6wjleg-z9F__--ukV5SrVQYnclrmfx00fiXJ5V9qSKjA4VApwPB-HpVFXYIaZdBqz4w3W63rkJau-5Ei9ytKQ&oh=ee40ed355a3aee5cc44209742997c8eb&oe=5BAB6BEB");
+
+}
+
+
+#chat [data-cid ^ = "36740873-"] .from {
+	background: linear-gradient (para a direita, rgba (0, 0, 0, .12), transparente);
+	preenchimento: 7px;
+	raio de fronteira: 15 px;
+}
+#chat [data-cid ^ = "23246837-"] .from {
+	background: linear-gradient (para a direita, rgba (0, 0, 0, .12), transparente);
+	preenchimento: 7px;
+	raio de fronteira: 15 px;
+}
+
+#chat [data-cid ^ = "21755082-"] .from {
+	background: linear-gradient (para a direita, rgba (0, 0, 0, .12), transparente);
+	preenchimento: 7px;
+	raio de fronteira: 15 px;
+
+	
+}
+
+# listas de usuários .list .user.id-5842493 .name: after,
+#chat [data-cid ^ = '5842493-'] .un: depois,
+# listas de usuários .list .user.id-5842493 .name: after,
+#chat [data-cid ^ = '5842493-'] .un: depois,
+# listas de usuários .list .user.id-5842493 .name: after,
+#chat [data-cid ^ = '5842493-'] .un: após {
+    conteúdo: 'QUEEN';
+    display: bloco inline;
+    margem: 0 0 0 5px; 
+	preenchimento: 0 3px;
+    cor: # 009A80;
+    fundo: gradiente linear (rgba (10,10,10, 0,5), rgba (0,0,0, 0,5));
+    raio de fronteira: 4 px;
+    tamanho da fonte: 10px;
+}
+# user-lists .list .user.id-5842493: hover .name: depois,
+#chat [data-cid ^ = '5842493-'] .un: hover: depois,
+# user-lists .list .user.id-5842493: hover .name: depois,
+#chat [data-cid ^ = '5842493-'] .un: hover: depois,
+# user-lists .list .user.id-5842493: hover .name: depois,
+#chat [data-cid ^ = '5842493-'] .un: hover: após {
+    fundo: gradiente linear (rgba (0, 154, 141, 0,2), rgba (0, 102, 102, 0,2));
+}
+
+# listas de usuários .list .user.id-20574971 .name: after,
+#chat [data-cid ^ = '20574971-'] .un: depois,
+# listas de usuários .list .user.id-20574971 .name: after,
+#chat [data-cid ^ = '20574971-'] .un: depois,
+# listas de usuários .list .user.id-20574971 .name: after,
+#chat [data-cid ^ = '20574971-'] .un: após {
+    conteúdo: 'KING';
+    display: bloco inline;
+    margem: 0 0 0 5px; 
+	preenchimento: 0 3px;
+    cor: # 009A80;
+    fundo: gradiente linear (rgba (10,10,10, 0,5), rgba (0,0,0, 0,5));
+    raio de fronteira: 4 px;
+    tamanho da fonte: 10px;
+}
+# listas de usuários .list .user.id-20574971: hover .name: after,
+#chat [data-cid ^ = '20574971-'] .un: hover: depois,
+# listas de usuários .list .user.id-20574971: hover .name: after,
+#chat [data-cid ^ = '20574971-'] .un: hover: depois,
+# listas de usuários .list .user.id-20574971: hover .name: after,
+#chat [data-cid ^ = '20574971-'] .un: hover: após {
+    fundo: gradiente linear (rgba (0, 154, 141, 0,2), rgba (0, 102, 102, 0,2));
+}
+
+# user-rollover.id-20574971 .meta {
+altura: 146px! importante;
+}
+# user-rollover.id-20574971 .meta: before {
+    conteúdo: 'CSS';
+    topo: 120px;
+    esquerda: 109px;
+    posição: absoluta;
+	display: bloco inline; 
+	preenchimento: 0 3px;
+    cor: # 009A80;
+    fundo: gradiente linear (rgba (0, 154, 141, 0,2), rgba (0, 102, 102, 0,2));
+    raio de fronteira: 4 px;
+    tamanho da fonte: 10px;
+}
+# user-rollover.id-20574971 .meta: after {
+    conteúdo: 'Theme dev';
+    cor: # 808691;
+    posição: absoluta;
+    top: 117px;
+    esquerda: 134px;
+}
